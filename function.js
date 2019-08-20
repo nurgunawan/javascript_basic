@@ -8,7 +8,7 @@ function hello(name) {
 hello('nur');
 hello('gunawan');
 
-//function Ccalculate number
+//function Calculate number
 
 function calculateNumber(number1,number2){
     
